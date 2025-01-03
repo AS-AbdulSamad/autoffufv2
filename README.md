@@ -48,3 +48,5 @@ Run the script using the following command
 ```bash
 ./autoffufv2 -d <domain_file> -w <wordlist_file>
 ```
+### Example
+![image](https://github.com/user-attachments/assets/29f32197-6ac3-408f-9ab1-ced9a453225d)
